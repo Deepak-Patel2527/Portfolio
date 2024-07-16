@@ -23,7 +23,7 @@ Store URL: https://fuzejewelry.com/
 Description: Implemented frontend solutions to enhance the aesthetics and functionality of the FuzeJewelry Shopify store, focusing on creating a seamless shopping experience and improving conversion rates.
 
 5. WPBB1
-Store URL: https://wbpp1.myshopify.com/?_ab=0&_fd=0&_sc=1&key=1e26057b01dd4e1c7fc2603f15754d2b85929191a610dc4c18b2c269b6673c34&preview_theme_id=134169690269
+Store URL: https://wigsbypattispearls.com/
 Description: Contributed to frontend development initiatives including theme customization, UI enhancements, and performance optimization for the WPBB1 Shopify store, focusing on delivering an intuitive and visually appealing online shopping experience.
 
 Conclusion:
