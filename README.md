@@ -24,7 +24,7 @@ Description: Implemented frontend solutions to enhance the aesthetics and functi
 
 5. WPBB1
 Store URL: https://wigsbypattispearls.com/
-Description: Contributed to frontend development initiatives including theme customization, UI enhancements, and performance optimization for the WPBB1 Shopify store, focusing on delivering an intuitive and visually appealing online shopping experience.
+Description: Contributed to frontend development initiatives including theme customization, UI enhancements, and performance optimization for the wigsbypattispearls Shopify store, focusing on delivering an intuitive and visually appealing online shopping experience.
 
 Conclusion:
 With 2.5 years of experience in Shopify frontend development, I have successfully contributed to the enhancement of various online stores, ensuring they are visually engaging, user-friendly, and optimized for performance. These projects reflect my expertise in frontend development, UI/UX design, and my dedication to delivering high-quality solutions tailored to meet client objectives in the e-commerce domain.
